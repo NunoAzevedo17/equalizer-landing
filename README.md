@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/NunoAzevedo17/equalizer-landing](https://github.com/NunoAzevedo17/equalizer-landing)
-- Live Site URL: [https://nunoazevedo17.github.io/equalizer-landing](https://nunoazevedo17.github.io/equalizer-landing)
+- Solution URL: [https://github.com/NunoAzevedo17/equalizer-landing-page](https://github.com/NunoAzevedo17/equalizer-landing-page)
+- Live Site URL: [https://nunoazevedo17.github.io/equalizer-landing-page](https://nunoazevedo17.github.io/equalizer-landing-page)
 
 ## My process
 
