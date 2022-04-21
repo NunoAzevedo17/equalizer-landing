@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@nunoazevedo17](https://www.frontendmentor.io/profile/nunoazevedo17)
+- Website - [nunoazevedo.vercel.app](https://nunoazevedo.vercel.app)
+- Frontend Mentor - [@NunoAzevedo17](https://www.frontendmentor.io/profile/NunoAzevedo17)
